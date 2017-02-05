@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fz:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fz_jar</output-path>
+    <root id="archive" name="fz.jar">
+      <element id="module-output" name="fz" />
+      <element id="extracted-dir" path="F:/xxxcc/jexcel-1.8-windows-32_64-bit/lib/jxl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/xxxcc/jexcel-1.8-windows-32_64-bit/lib/comfyj-2.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/xxxcc/jexcel-1.8-windows-32_64-bit/lib/jniwrap-3.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/xxxcc/jexcel-1.8-windows-32_64-bit/lib/winpack-3.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/xxxcc/jexcel-1.8-windows-32_64-bit/lib/slf4j-api-1.5.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/xxxcc/jexcel-1.8-windows-32_64-bit/lib/slf4j-simple-1.5.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/sqljdbc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/ezmorph-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-lang-2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/json-lib-2.2.3-jdk15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-logging-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-httpclient-3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-beanutils-1.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-collections-3.2.1.jar" path-in-jar="/" />
+      <element id="library" level="project" name="lib" />
+      <element id="library" level="project" name="lib1" />
+    </root>
+  </artifact>
+</component>
